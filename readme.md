@@ -6,63 +6,63 @@ silly man on the internet (send caffine please)
   <summary>more details about me</summary>
 
 ### 🌐 Socials
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/varram@varram.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-satti/)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/varram@varram.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshith-satti/)
 
 ---
 
 ### Languages
-[![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ---
 
 ### Web Stack
-[![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
-[![Sass](https://img.shields.io/badge/sass-hotpink?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
+[![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![Sass](https://img.shields.io/badge/sass-hotpink?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
 ---
 
 ### Backend / Infra
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
-[![PNPM](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)](https://pnpm.io/)
-[![JWT](https://img.shields.io/badge/jwt-black?style=flat&logo=jsonwebtokens)](https://jwt.io/)
-[![Apache](https://img.shields.io/badge/apache-D42029?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![Prisma](https://img.shields.io/badge/prisma-3982CE?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens)](https://jwt.io/)
+[![Apache](https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 ---
 
 ### Databases
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Postgres](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/redis-DD0031?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Postgres](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 ---
 
 ### Automation / Scraping
-[![Puppeteer](https://img.shields.io/badge/puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=black)](https://pptr.dev/)
-[![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Puppeteer](https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=black)](https://pptr.dev/)
+[![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 
 ---
 
 ### Dev / Cloud / Tooling
-[![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![GitLab](https://img.shields.io/badge/gitlab-181717?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Grafana](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub Actions](https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 
 ---
 
@@ -72,6 +72,7 @@ silly man on the internet (send caffine please)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-varram&theme=dark&hide_border=false&layout=compact)
 
 </details>
+
 
 
 ---
