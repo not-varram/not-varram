@@ -25,6 +25,6 @@ contact: `cat [at] varram.me`. [discord: varram](https://discord.com/users/58893
 
 “An idiot admires complexity, a genius admires simplicity" -Terry A. Davis (RIP)
 
----
+<!-- --- -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
