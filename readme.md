@@ -77,11 +77,11 @@ silly man on the internet (send caffine please)
 ---
 
 
-[public key](https://github.com/not-varram.gpg). [Hackathons: sigmaSociety](https://github.com/TheSigmaSociety)<br/>
+[public key](https://github.com/not-varram.gpg) . [hackathons: sigmaSociety](https://github.com/TheSigmaSociety)<br/>
 contact: `cat [at] varram.me`. [discord: varram](https://discord.com/users/588937914423967766) <br/>
 
 
-“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis (RIP)
+“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis
 
 <!-- --- -->
 
