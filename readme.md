@@ -68,7 +68,8 @@ silly man on the internet (send caffine please)
 
 ### 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=not-varram&theme=dark&hide_border=false) [![Discord Presence](https://lanyard.cnrad.dev/api/588937914423967766)](https://discord.com/users/588937914423967766)
-![varram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-varram&theme=react-dark)
+#![varram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=not-varram&theme=react-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=not-varram&theme=dark&hide_border=true&card_height=210&card_width=430)
 
 </details>
 
